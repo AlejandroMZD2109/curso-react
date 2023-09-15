@@ -1,0 +1,8 @@
+.Nav-Item{
+    padding: 5px;
+    border-radius: 1px;
+}
+
+.Nav-Item:hover{
+    background-color: rgb(220, 219, 219);
+}
